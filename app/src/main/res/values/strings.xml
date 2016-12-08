@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NaZdrowie</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="sasza_text">Fragment dla Saszy</string>
+    <string name="kamil_text">Fragment dla Kamila</string>
+    <string name="jacek_text">Fragment dla Jacka</string>
+    <string name="adrian_text">Fragment dla Adriana</string>
+</resources>
